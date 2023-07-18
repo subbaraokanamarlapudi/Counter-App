@@ -1,3 +1,5 @@
+// This code for only 15 clicks only.
+
 import { useState } from "react";
 import "./App.css";
 
@@ -35,6 +37,7 @@ function App() {
 
 export default App;
 
+// This code for the unlimited times.
 
 // import { useState } from "react";
 // import './App.css'
