@@ -1,5 +1,10 @@
 # COUNTER-APP USING REACT
 
+Here is the output
+
+https://github.com/subbaraokanamarlapudi/Counter-App/assets/88045527/fda1e874-63a4-45f7-baf6-f1783a7f418b
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
